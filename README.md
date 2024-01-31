@@ -1,2 +1,2 @@
 # supply_chain_vul
-Dataset of ASE'22: A comprehensive study on the software supply chain vulnerabilities
+Dataset and code of EMSE: Understanding Vulnerabilities in Software Supply Chains
